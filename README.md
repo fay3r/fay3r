@@ -26,5 +26,5 @@ All repositories are new because they have been transferred from bitbucket.
 https://bitbucket.org/fay3r/
 
 Projects made during classes at the university:
-https://bitbucket.org/unforgottendebt/
-https://bitbucket.org/programowanieobiektoweiii/
+- https://bitbucket.org/unforgottendebt/
+- https://bitbucket.org/programowanieobiektoweiii/
