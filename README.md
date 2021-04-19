@@ -1,7 +1,8 @@
 <h1 align="center">Patryk Starzycki</h1>
 
 <h3 align="center">Student Państwowa Wyższa Szkoła Zawodowa w Tarnowie</h3>
-<h3 align="center">Subject: Informatyka</h3>
+<h3 align="center">Subject: IT</h3>
+<h3 align="center">Spec: IT systems engineering</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
