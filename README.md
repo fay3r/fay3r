@@ -1,7 +1,7 @@
 <h1 align="center">Patryk Starzycki</h1>
 
 <h3 align="center">Student Państwowa Wyższa Szkoła Zawodowa w Tarnowie</h3>
-<h3 align="center">Kierunek: Informatyka</h3>
+<h3 align="center">Subject: Informatyka</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -13,7 +13,7 @@
 
 - 🌐  Java | Kotlin 
 - 💻  IntelliJ | Android Studio
-- 🔧 ; Spring | Maven | PostgreSQL | Git
+- 🔧  Spring | Maven | PostgreSQL | Git
 
 Basics of:
 - JavaScript , TypeScript
