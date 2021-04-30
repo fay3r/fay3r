@@ -6,7 +6,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭  I’m currently learning basic rules of writing good code, unit tests 
+- 🔭  I’m currently learning basic rules of writing good code, unit tests;
+       I'm working on my diploma thesis
 - 🎓  I'm going to graduate in 2022
 - ✍️  For hobbies I'm interested in new computer technologies, games, good films
 
@@ -23,6 +24,15 @@ Basics of:
 - Python
 - React Native
 
+***
+Diploma thesis thema:<br>
+ <b> Application for booking patient visits in the physiotherapy office </b><br>
+Main purpose of the project is to create system which will streamlining the registration process and make it quicker.
+Reservation system will be based on client-server architecture. Also server should connect to relational database. <br> <br>
+<b> Tools: Java, Spring, PostgreSQL, JavaScript, Angular ...
+
+
+***
 All repositories are new because they have been transferred from bitbucket.
 https://bitbucket.org/fay3r/
 
