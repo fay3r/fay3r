@@ -25,7 +25,7 @@ Basics of:
 - React Native
 
 <h4>Find me on</h4>
-<a href="https://www.linkedin.com/in/patryk-starzycki-a09441211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/patryk-starzycki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ***
 Diploma thesis thema:<br>
