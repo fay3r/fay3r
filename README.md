@@ -6,9 +6,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭  I’m currently learning basic rules of writing good code, unit tests;
-       I'm working on my diploma thesis
-- 🎓  I'm going to graduate in 2022
+- 🔭  I’m currently learning Angular, React, unit tests;
+- 🎓  I'm working on my diploma thesis, I'm going to graduate in 2022
 - ✍️  For hobbies I'm interested in new computer technologies, games, good films
 
 <h3>🛠 Tech Stack</h3>
@@ -16,6 +15,7 @@
 - 🌐  Java | Kotlin 
 - 💻  IntelliJ | Android Studio
 - 🔧  Spring | Maven | PostgreSQL | Git
+- :blue_book: Desing Patterns | SOLID | KISS
 
 Basics of:
 - JavaScript , TypeScript
@@ -36,10 +36,8 @@ Reservation system will be based on client-server architecture. Also server shou
 
 
 ***
-All repositories are new because they have been transferred from bitbucket.
-https://bitbucket.org/fay3r/
 
 Projects made during classes at the university:
-- https://bitbucket.org/unforgottendebt/  - client Android + server Spring - app made for sharing expenses between users 
-- https://bitbucket.org/programowanieobiektoweiii/ - client Java + server Spring - mini platform for simple games 
-- https://bitbucket.org/thewigsquad/ - Tic Tac Toe - client  + server - server handling actual state of the game
+- client Android + server Spring - app made for sharing expenses between users 
+- client Java + server Spring - mini platform for simple games 
+- Tic Tac Toe - client  + server - server handling actual state of the game
