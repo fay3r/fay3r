@@ -15,7 +15,7 @@
 - 🌐  Java | Kotlin 
 - 💻  IntelliJ | Android Studio
 - 🔧  Spring | Maven | PostgreSQL | Git
--     JavaScript | TypeScript | HTML | CSS | Angular | React Native
+- JavaScript | TypeScript | HTML | CSS | Angular | React Native
 - :blue_book: Desing Patterns | SOLID | KISS
 
 Basics of:
