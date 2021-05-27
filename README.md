@@ -15,14 +15,12 @@
 - 🌐  Java | Kotlin 
 - 💻  IntelliJ | Android Studio
 - 🔧  Spring | Maven | PostgreSQL | Git
+-     JavaScript | TypeScript | HTML | CSS | Angular | React Native
 - :blue_book: Desing Patterns | SOLID | KISS
 
 Basics of:
-- JavaScript , TypeScript
-- HTML/CSS
 - C/C++
 - Python
-- React Native
 
 <h4>Find me on</h4>
 <a href="https://www.linkedin.com/in/patryk-starzycki/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
