@@ -33,10 +33,3 @@ Main purpose of the project is to create system which will streamlining the regi
 Reservation system will be based on client-server architecture. Also server should connect to relational database. <br> <br>
 <b> Tools: Java, Spring, PostgreSQL, JavaScript, Angular ... </b>
 
-
-***
-
-Projects made during classes at the university:
-- client Android + server Spring - app made for sharing expenses between users 
-- client Java + server Spring - mini platform for simple games 
-- Tic Tac Toe - client  + server - server handling actual state of the game
