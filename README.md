@@ -21,6 +21,7 @@
 Basics of:
 - C/C++
 - Python
+- React
 
 <h4>Find me on</h4>
 <a href="https://www.linkedin.com/in/patryk-starzycki/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
