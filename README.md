@@ -33,5 +33,5 @@ Diploma thesis thema:<br>
  <b> Application for booking patient visits in the physiotherapy office </b><br>
 Main purpose of the project is to create system which will upgrade the registration process and make it quicker.
 Reservation system will be based on client-server architecture. Also server should connect to relational database. <br> <br>
-<b> Tools: Java, Spring, PostgreSQL, JavaScript, Angular ... </b>
+<b> Tools: Java, Spring, PostgreSQL, JavaScript, React ... </b>
 
