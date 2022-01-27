@@ -6,8 +6,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭  I’m currently learning Angular, React, unit tests;
-- 🎓  I'm working on my diploma thesis, I'm going to graduate in 2022
+- 🔭  I’m currently working on meditation mobile app (Equa)
+- 🎓  I'm finishing my diploma project 
 - ✍️  For hobbies I'm interested in new computer technologies, games, good films
 
 <h3>🛠 Tech Stack</h3>
@@ -15,8 +15,7 @@
 - 🌐  Java | Kotlin 
 - 💻  IntelliJ | Android Studio
 - 🔧  Spring | Maven | PostgreSQL | Git
-- JavaScript | TypeScript | HTML | CSS | Angular | React Native | React | Redux
-- :blue_book: Desing Patterns | SOLID | KISS
+- JavaScript | TypeScript | HTML | CSS | Angular | React Native | React | Redux | Jest | Firebase | GCP
 
 Basics of:
 - C/C++
