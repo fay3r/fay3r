@@ -1,6 +1,6 @@
 <h1 align="center">Patryk Starzycki</h1>
 
-<h3 align="center">Junior Mobile Developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 <h3 align="center">Graduated Państwowa Wyższa Szkoła Zawodowa w Tarnowie</h3>
 <h3 align="center">Subject: IT</h3>
 <h3 align="center">Spec: IT systems engineering</h3>
