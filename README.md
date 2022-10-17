@@ -15,5 +15,6 @@ React | React-Native | Angular | JavaScript | TypeScript | HTML | CSS | ESLint |
  <br> <br>
 <a style="display:flex;align-items:center" href="https://riverjackpoker.com/"><img src="https://github.com/fay3r/fay3r/blob/main/favicon.png"/> Play poker with you friends!</a>
 <br><br>
-My Current project:
-<a href="https://play.google.com/store/apps/details?id=com.imeditate.equaapp">Equa Health Mobile App</a>
+My Current project: Equa Health Mobile App 
+<a href="https://play.google.com/store/apps/details?id=com.imeditate.equaapp">[android]</a>
+<a href="https://apps.apple.com/us/app/equa/id1541398915">[ios]</a>
