@@ -1,6 +1,6 @@
 <h1 align="center">Patryk Starzycki</h1>
 
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 <h3 align="center">Graduated Państwowa Wyższa Szkoła Zawodowa w Tarnowie</h3>
 <h3 align="center">Subject: Computer Science</h3>
 <h3 align="center">Field: Information and communication technology</h3>
